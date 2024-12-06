@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: 'Acme', sans-serif;
+}
+
+.btn {
+    padding: 10px 20px;
+    color: white;
+    background-color: blue;
+    border: none;
+    font-size: 18px;
+}
+
+.btn-clicked {
+    background-color: red;
+}
